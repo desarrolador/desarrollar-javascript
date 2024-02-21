@@ -1,0 +1,477 @@
+* {
+    margin:0;
+    padding: 0;
+    text-align: center;
+    font-family: fantasy;
+    
+
+}
+
+
+body {
+
+    background-color: blueviolet;
+    background-repeat: no-repeat;
+    
+}
+
+.parrafo1 {
+    font-size: larger;
+    padding: 20px;
+}
+
+.btn1{
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    
+}
+
+.a1 {
+    text-align: center;
+    font-size: larger;
+    text-decoration: none;
+}
+
+.parrafo2 {
+    font-size: larger;
+    padding: 20px;
+}
+
+.parrafo1 {
+    font-size: larger;
+    padding: 20px;
+}
+
+.btn1{
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    
+}
+
+.a1 {
+    text-align: center;
+    font-size: larger;
+    text-decoration: none;
+}
+
+.parrafo2 {
+    font-size: larger;
+    padding: 20px;
+}
+
+.parrafo1 {
+    font-size: larger;
+    padding: 20px;
+}
+
+.btn2{
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    
+}
+
+.a3 {
+    text-align: center;
+    font-size: larger;
+    text-decoration: none;
+}
+
+.parrafo2 {
+    font-size: larger;
+    padding: 20px;
+}
+
+.parrafo1{
+    font-size: larger;
+    padding: 20px;
+}
+
+.btn4{
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    
+}
+
+.a4 {
+    text-align: center;
+    font-size: larger;
+    text-decoration: none;
+}
+
+.parrafo2 {
+    font-size: larger;
+    padding: 20px;
+}
+
+.parrafo1 {
+    font-size: larger;
+    padding: 20px;
+}
+
+.btn5{
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    
+}
+
+.a5 {
+    text-align: center;
+    font-size: larger;
+    text-decoration: none;
+}
+
+.parrafo2{
+    font-size: larger;
+    padding: 20px;
+}
+
+.parrafo1{
+    font-size: larger;
+    padding: 20px;
+}
+
+.btn6{
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    
+}
+
+.a6 {
+    text-align: center;
+    font-size: larger;
+    text-decoration: none;
+}
+
+.parrafo2 {
+    font-size: larger;
+    padding: 20px;
+}
+
+.parrafo1 {
+    font-size: larger;
+    padding: 20px;
+}
+
+.btn7{
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    
+}
+
+.a7 {
+    text-align: center;
+    font-size: larger;
+    text-decoration: none;
+}
+
+.parrafo2 {
+    font-size: larger;
+    padding: 20px;
+}
+
+.parrafo1 {
+    font-size: larger;
+    padding: 20px;
+}
+
+.btn8{
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    
+}
+
+.a8 {
+    text-align: center;
+    font-size: larger;
+    text-decoration: none;
+}
+
+.parrafo2 {
+    font-size: larger;
+    padding: 20px;
+}
+
+.parrafo1 {
+    font-size: larger;
+    padding: 20px;
+}
+
+.btn9{
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    
+}
+
+.a9 {
+    text-align: center;
+    font-size: larger;
+    text-decoration: none;
+}
+
+.parrafo2 {
+    font-size: larger;
+    padding: 20px;
+}
+
+.parrafo1 {
+    font-size: larger;
+    padding: 20px;
+}
+
+.btn10{
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    
+}
+
+.a10 {
+    text-align: center;
+    font-size: larger;
+    text-decoration: none;
+}
+
+.parrafo2 {
+    font-size: larger;
+    padding: 20px;
+}
+
+.parrafo1{
+    font-size: larger;
+    padding: 20px;
+}
+
+.btn11{
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    
+}
+
+.a11 {
+    text-align: center;
+    font-size: larger;
+    text-decoration: none;
+}
+
+.parrafo2 {
+    font-size: larger;
+    padding: 20px;
+}
+
+.parrafo1 {
+    font-size: larger;
+    padding: 20px;
+}
+
+.btn12{
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    
+}
+
+.a12 {
+    text-align: center;
+    font-size: larger;
+    text-decoration: none;
+}
+
+.parrafo2 {
+    font-size: larger;
+    padding: 20px;
+}
+
+.parrafo1 {
+    font-size: larger;
+    padding: 20px;
+}
+
+.btn13{
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    
+}
+
+.a13 {
+    text-align: center;
+    font-size: larger;
+    text-decoration: none;
+}
+
+.parrafo2 {
+    font-size: larger;
+    padding: 20px;
+}
+
+.parrafo1 {
+    font-size: larger;
+    padding: 20px;
+}
+
+.btn14{
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    
+}
+
+.a14 {
+    text-align: center;
+    font-size: larger;
+    text-decoration: none;
+}
+
+.parrafo2 {
+    font-size: larger;
+    padding: 20px;
+}
+
+.parrafo1 {
+    font-size: larger;
+    padding: 20px;
+}
+
+.btn15{
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    
+}
+
+.a15 {
+    text-align: center;
+    font-size: larger;
+    text-decoration: none;
+}
+
+.parrafo2 {
+    font-size: larger;
+    padding: 20px;
+}
+
+.parrafo1 {
+    font-size: larger;
+    padding: 20px;
+}
+
+.btn16{
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    
+}
+
+.a16 {
+    text-align: center;
+    font-size: larger;
+    text-decoration: none;
+}
+
+.parrafo2 {
+    font-size: larger;
+    padding: 20px;
+}
+
+.parrafo1 {
+    font-size: larger;
+    padding: 20px;
+}
+
+.btn17{
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    
+}
+
+.a17 {
+    text-align: center;
+    font-size: larger;
+    text-decoration: none;
+}
+
+.parrafo2 {
+    font-size: larger;
+    padding: 20px;
+}
+
+
+.parrafo1 {
+    font-size: larger;
+    padding: 20px;
+}
+
+.btn18{
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    
+}
+
+.a18 {
+    text-align: center;
+    font-size: larger;
+    text-decoration: none;
+}
+
+.parrafo2 {
+    font-size: larger;
+    padding: 20px;
+}
+
+.parrafo1 {
+    font-size: larger;
+    padding: 20px;
+}
+
+.btn19{
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    
+}
+
+.a19 {
+    text-align: center;
+    font-size: larger;
+    text-decoration: none;
+}
+
+.parrafo2 {
+    font-size: larger;
+    padding: 20px;
+}
+
+.parrafo1 {
+    font-size: larger;
+    padding: 20px;
+}
+
+.btn20{
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    
+}
+
+.a20 {
+    text-align: center;
+    font-size: larger;
+    text-decoration: none;
+}
+
+.parrafo2 {
+    font-size: larger;
+    padding: 20px;
+}
