@@ -43,7 +43,7 @@ body {
     padding: 20px;
 }
 
-.btn1{
+.btn2{
     border-radius: 10px;
     margin: 5px;
     padding: 5px;
@@ -66,14 +66,14 @@ body {
     padding: 20px;
 }
 
-.btn2{
+.btn3{
     border-radius: 10px;
     margin: 5px;
     padding: 5px;
     
 }
 
-.a3 {
+.a1 {
     text-align: center;
     font-size: larger;
     text-decoration: none;
