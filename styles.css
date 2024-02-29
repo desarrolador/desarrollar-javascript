@@ -475,3 +475,47 @@ body {
     font-size: larger;
     padding: 20px;
 }
+
+.btn-paypal {
+    margin: 20px;
+    padding: 10px;
+    border-radius:2px solid blue;  
+    text-align: center;
+    font-family: fantasy;
+    font-size: larger;
+    cursor: pointer;
+    color: rgb(63, 30, 210);
+}
+
+.btn-paypal:hover {
+    cursor: pointer;
+    color: lightseagreen;
+}
+
+.ul {
+    font-family: fantasy;
+}
+
+.ul li {
+    margin: 10px;
+    padding: 5px;
+    display: inline-block;
+    font-size: larger;
+    text-align: center;
+    
+    
+    
+}
+
+.ul li a {
+     list-style-type: none;
+     text-decoration: none;
+     font-family: fantasy;
+     color: black;
+}
+
+.ul li a:hover {
+    cursor: pointer;
+    color: lightseagreen;
+}
+
