@@ -479,7 +479,7 @@ body {
 .btn-paypal {
     margin: 20px;
     padding: 10px;
-    border-radius:2px solid blue;  
+    border-radius:2px solid rgba(0, 0, 255, 0.87);  
     text-align: center;
     font-family: fantasy;
     font-size: larger;
@@ -511,7 +511,7 @@ body {
      list-style-type: none;
      text-decoration: none;
      font-family: fantasy;
-     color: black;
+     color: rgba(0, 0, 0, 0.705);
 }
 
 .ul li a:hover {
