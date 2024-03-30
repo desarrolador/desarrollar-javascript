@@ -526,3 +526,16 @@ body {
     border: 1px solid #ccc;
     padding: 10px;
 }
+
+.h1 {
+    color: rgb(4, 7, 128);
+    font-family: fantasy;
+    font-size: larger;
+
+}
+
+.h2 {
+    color: rgb(25, 3, 124);
+    font-family: fantasy;
+    font-size: larger;
+}
