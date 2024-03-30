@@ -45,3 +45,41 @@
         // Renderizar comentarios iniciales
         renderComments(comments);
 
+
+        // registrar comentarios en mi servidor
+
+        function addComment() {
+            var name = document.getElementById('nameInput').value;
+            var comment = document.getElementById('commentInput').value;
+        
+            if (name && comment) {
+                // Crear un objeto con los datos del comentario
+                var newComment = { name: name, comment: comment };
+        
+                // Realizar una solicitud POST al servidor para agregar el comentario
+                fetch('/comments', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(newComment)
+                })
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Ocurrió un error al agregar el comentario.');
+                    }
+                    // Limpiar los campos después de agregar el comentario con éxito
+                    document.getElementById('nameInput').value = '';
+                    document.getElementById('commentInput').value = '';
+                    // Actualizar los comentarios después de agregar el nuevo comentario
+                    fetchComments();
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    alert('Ocurrió un error al agregar el comentario. Por favor, inténtalo de nuevo.');
+                });
+            } else {
+                alert('Por favor, complete todos los campos.');
+            }
+        }
+        
