@@ -473,17 +473,38 @@
 
       
     <div>
-   <a href="http://paypal.me/miguel52141"><img class="logo-paypal" src="logo javascript/logo paypal 1.jpg" alt=""></a>    
-   
+   <a href="http://paypal.me/miguel52141"><img class="logo-paypal" src="logo javascript/logo paypal 1.jpg" alt=""
+    ></a>    
    
     </div> 
-    
-    <div>
 
- <a href="https://mpago.la/2Axk1it"><img class="logo-mercadopago" src="logo javascript/logo mercado pago.jpg" alt=""></a>
+       <div>
+        <img src="logo javascript/logo mercado pago.jpg">
+
+        <form action="https://www.mercadopago.com/checkout/v1/redirect" method="POST">
+
+        <input type="hidden" name="preference_id" value="ID_DE_TU_PREFERENCIA_AQUI">
+        
+        <label for="video1">
+            Video 1
+            <input type="radio" id="video1" name="video_id" value="video1" required>
+        </label><br>
+        
+        <label for="video2">
+            Video 2
+            <input type="radio" id="video2" name="video_id" value="video2" required>
+        </label><br>
+        
+        <label for="video3">
+            Video 3
+            <input type="radio" id="video3" name="video_id" value="video3" required>
+        </label><br>
+        
+        <input type="submit" value="Pagar">
+    </form>
     </div>
-    
 
+   
         <ul class="ul">
          <li class="li"><a class="a" href="">x</a></li>
          <li class="li"><a class="a"  href="">facebook</a></li>
