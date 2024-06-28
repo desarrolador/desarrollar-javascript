@@ -1,3 +1,0 @@
-        // Datos simulados de comentarios
-       
-    
