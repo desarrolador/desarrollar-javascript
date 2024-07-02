@@ -546,15 +546,3 @@ body {
     font-family: fantasy;
     font-size: larger;
 }
-
-.parrafofooter{
-
-    font-family: fantasy;
-    font-size: larger;
-    color: aliceblue;
-}
-
-.parrafofooter:hover {
-    cursor: pointer;
-    color:rgb(3, 100, 145);
-}
