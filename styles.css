@@ -509,44 +509,19 @@ body {
     display: inline-block;
     font-size: larger;
     text-align: center;
-    
-    
-    
 }
 
 .ul li a {
      list-style-type: none;
      text-decoration: none;
      font-family: fantasy;
-     color: rgba(0, 0, 0, 0.705);
+     color:antiquewhite;
 }
 
 .ul li a:hover {
     cursor: pointer;
     color: lightseagreen;
 }
-
-
-/* Estilos CSS */
-.comment {
-    margin-bottom: 20px;
-    border: 1px solid #ccc;
-    padding: 10px;
-}
-
-.h1 {
-    color: rgb(4, 7, 128);
-    font-family: fantasy;
-    font-size: larger;
-
-}
-
-.h2 {
-    color: rgb(25, 3, 124);
-    font-family: fantasy;
-    font-size: larger;
-}
-
 
 .parrafofooter {
     font-family: 'Times New Roman';
