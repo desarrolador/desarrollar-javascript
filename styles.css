@@ -3,6 +3,7 @@
     padding: 0;
     text-align: center;
     font-family: fantasy;
+    color: antiquewhite;
     
     
 
@@ -32,6 +33,9 @@ body {
     text-align: center;
     font-size: larger;
     text-decoration: none;
+    font-family: fantasy;
+    color: black;
+
 }
 
 .parrafo2 {
