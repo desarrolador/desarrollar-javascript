@@ -20,6 +20,8 @@ body {
 .parrafo1 {
     font-size: larger;
     padding: 20px;
+    font-family: fantasy;
+    color: #000;
 }
 
 .btn1{
@@ -41,6 +43,8 @@ body {
 .parrafo2 {
     font-size: larger;
     padding: 20px;
+    font-family: fantasy;
+    color: #000;
 }
 
 .parrafo1 {
